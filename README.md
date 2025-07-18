@@ -51,7 +51,7 @@ This app provides an interactive web interface for users to generate custom home
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Driven-Custom-Home-Design-Assistant.git
+https://github.com/charan11640/AI-Driven-Custom-Home-Design-Assistant/tree/main
 cd AI-Driven-Custom-Home-Design-Assistant-main
 ```
 
